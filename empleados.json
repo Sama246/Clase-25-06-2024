@@ -1,0 +1,23 @@
+[
+    {
+        "id_empleado": "E1",
+        "nombre": "Alan",
+        "apellido": "Brito",
+        "sueldo": 450000,
+        "id_cargo": "C2"
+    },
+    {
+        "id_empleado": "E2",
+        "nombre": "Maria",
+        "apellido": "Dolores",
+        "sueldo": 500000,
+        "id_cargo": "C1"
+    },
+    {
+        "id_empleado": "E3",
+        "nombre": "Juanito",
+        "apellido": "Soto",
+        "sueldo": 1500000,
+        "id_cargo": "C1"
+    }
+]
